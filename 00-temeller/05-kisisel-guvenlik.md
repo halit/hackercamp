@@ -42,7 +42,8 @@ Paylaşımlı ağlar kişisel güvenlik için en büyük tehditlerin başında g
 - [Zanti][14] uygulamasının kurulması ve incelenmesi.
 - [Nethunter][15] uygulamasının kurulması ve incelenmesi.
 - [Telegram][17] uygulamasının kurulması ve secret chat özelliğinin incelenmesi.
-- Vlan hopping kavramının araştırılması
+- Vlan hopping kavramının araştırılması.
+- Sanallaştırma çözümlerinin getirdiği avantajları kavrama.
 
 [1]: https://wikileaks.org/hackingteam/emails/
 [2]: https://bgr.com/2015/07/31/windows-10-upgrade-spying-how-to-opt-out/
