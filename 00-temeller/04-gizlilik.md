@@ -50,4 +50,6 @@ Veri güvenliği kısmında diğer bir önemli nokta da [PGP][6]'dir. Ağırlık
 [6]: https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 [7]: https://www.enigmail.net/
 [8]: http://wiki.xmpp.org/web/OTR
+[9]: http://truecrypt.sourceforge.net/
+
 
