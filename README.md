@@ -9,3 +9,7 @@ Konu | Açıklama
 [Web Güvenliği](02-web-guvenligi/README.md) | Web uygulama saldırıları ve savunma yöntemleri
 [Yazılım Güvenliği](03-yazilim-guvenligi/README.md) | Güvenli yazılım geliştirme ve tersine mühendislik
 [Diğer](04-diger/README.md) | Diğer kategorilerde yer almayan siber güvenlik konuları
+
+# İletişim
+
+Eğitim ile ilgili tüm problemler ve sorular için [mail grubu](https://groups.google.com/forum/#!forum/hacker-camp) kullanılmaktadır. Diğer sorularınız için camp@octosec.net adresine mail atabilirsiniz.
