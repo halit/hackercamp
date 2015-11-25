@@ -10,21 +10,21 @@ Sanal makineler için **PentestNetwork** ve **MalwrNetwork** isimli iki adet nat
 
 ## Sanal Makineler
 
-- pentest: Debian 64 bit, 20gb disk, 1gb ram, [Kali Linux][2] dağıtımı, PentestNetwork ağı.
-- pentestlab-network: Debian 64 bit, 8gb disk, 512mb ram, [Metasploitable][3] dağıtımı, PentestNetwork ağı.
-- pentestlab-web: Debian 64 bit, 8gb disk, 512mb ram, [Web for pentester][4] dağıtımı, PentestNetwork ağı.
-- pentestlab-win: Windows xp 32 bit, 20gb disk, 256mb ram, [Windows XP SP3][5] işletim sistemi, PentestNetwork ağı.
-- malwarelab-32: Windows xp 32 bit, 20gb disk, 256mb ram, [Windows XP SP3][5] işletim sistemi, MalwrNetwork ağı.
-- malwarelab-64: Windows 7 64 bit, 20gb disk, 512mb ram, [Windows 7 Professional SP1][6] işletim sistemi. MalwrNetwork ağı.
+- **pentest**: Debian 64 bit, 20gb disk, 1gb ram, [Kali Linux][2] dağıtımı, PentestNetwork ağı.
+- **pentestlab-network**: Debian 64 bit, 8gb disk, 512mb ram, [Metasploitable][3] dağıtımı, PentestNetwork ağı.
+- **pentestlab-web**: Debian 64 bit, 8gb disk, 512mb ram, [Web for pentester][4] dağıtımı, PentestNetwork ağı.
+- **pentestlab-win**: Windows xp 32 bit, 20gb disk, 256mb ram, [Windows XP SP3][5] işletim sistemi, PentestNetwork ağı.
+- **malwarelab-32**: Windows xp 32 bit, 20gb disk, 256mb ram, [Windows XP SP3][5] işletim sistemi, MalwrNetwork ağı.
+- **malwarelab-64**: Windows 7 64 bit, 20gb disk, 512mb ram, [Windows 7 Professional SP1][6] işletim sistemi. MalwrNetwork ağı.
 
 ## Ayarlamalar
 
-- pentest: Kali Linux işletim sisteminin kurulması gerekmektedir. Bunun için [default][7] ayarlar kullanılabilir. Kurulum yapıldıktan sonra snapshot alınması gerekmektedir.
-- pentestlab-network: Metasploitable dağıtımının kurulması gerekmektedir. İlk kurulumdan sonra snapshop alınması yeterlidir.
-- pentestlab-web: Herhangi bir ayarlama gerektirmemektedir. ISO ile birlikte live olarak kullanılabilir.
-- pentestlab-win: Kurulum yapıldıktan sonra firewall özelliğinin devredışı bırakılması gerekmektedir.
-- malwarelab-32: Kurulumdan sonra çeşitli araçların kurulması gerekmektedir. Bu araçlar konusu geldiğinde paylaşılacaktır.
-- malwarelab-64: Kurulumdan sonra çeşitli araçların kurulması gerekmektedir. Bu araçlar konusu geldiğinde paylaşılacaktır.
+- **pentest**: Kali Linux işletim sisteminin kurulması gerekmektedir. Bunun için [default][7] ayarlar kullanılabilir. Kurulum yapıldıktan sonra snapshot alınması gerekmektedir.
+- **pentestlab-network**: Metasploitable dağıtımının kurulması gerekmektedir. İlk kurulumdan sonra snapshop alınması yeterlidir.
+- **pentestlab-web**: Herhangi bir ayarlama gerektirmemektedir. ISO ile birlikte live olarak kullanılabilir.
+- **pentestlab-win**: Kurulum yapıldıktan sonra firewall özelliğinin devredışı bırakılması gerekmektedir.
+- **malwarelab-32**: Kurulumdan sonra çeşitli araçların kurulması gerekmektedir. Bu araçlar konusu geldiğinde paylaşılacaktır.
+- **malwarelab-64**: Kurulumdan sonra çeşitli araçların kurulması gerekmektedir. Bu araçlar konusu geldiğinde paylaşılacaktır.
 
 [1]: https://www.virtualbox.org/wiki/Downloads
 [2]: https://www.kali.org
