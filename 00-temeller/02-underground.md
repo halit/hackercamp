@@ -16,6 +16,16 @@ Eski tarihler **underground** platformlarda bilgi paylaşımı ön planda iken a
 
 İlk kısımda bahsedilen **hacker** akımının temsilcileri kendisi gibi düşünen kimseler ile **hackerspace** diye bahsedilen oluşumlar kurmaktadır. Bu oluşumların tüm hepsi **siber güvenlik** kavramı ile ilgilenmemektedir. [Chaos Computer Club][2] ağırlıklı olarak siber güvenlik ile ilgilenen bir **hackerspace** oluşumudur. Örneğin Türkiye'de yer alan [İstanbul Hackerspace][3], [Denizli Hackerspace][4] ve [Trabzon Hackerspace][5] ağırlıklı olarak siber güvenlik ile ilgilenmemektedir.
 
+## Okumaya Devam
+
+- http://phrack.org/issues/64/4.html
+- http://phrack.org/issues/7/3.html
+- http://phrack.org/issues/67/16.html
+- http://phrack.org/issues/64/17.html
+- http://phrack.org/issues/65/15.html
+- http://phrack.org/issues/68/19.html
+- http://phrack.org/issues/47/21.html
+
 [1]: http://www.phrack.org/
 [2]: https://www.ccc.de/en/
 [3]: https://istanbulhs.org/
