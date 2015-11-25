@@ -6,7 +6,7 @@ Genellikle hackerların bilgi paylaşımında bulundukları tüm bölgeler **und
 
 ## Underground Dergiler
 
-Bu tarz dergilerden en ünlüsü şüphesiz ki [Phrack][1] dergisidir. İçeriği ve tarzı ile hackerlar arasında ayrı bir yere sahiptir.
+Bu tarz dergilerden en ünlüsü şüphesiz ki [Phrack][1] dergisidir. İçeriği ve tarzı ile hackerlar arasında ayrı bir yere sahiptir. Diğer dergilere örnek olarak da **Prophile** ve **Loopback** verilebilir.
 
 ## Siber Suçlar
 
