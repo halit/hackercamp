@@ -72,3 +72,15 @@ En kısa haliyle **hack** yapan kişiye **hacker** denilmektedir. **Hackerlar** 
 - Code Red, Stuxnet, I Love You
 - Estonya vs Rusya
 - Bank Of America, HSBC, JP Morgan
+
+## Motivasyonlar 
+
+- Pentester
+- Hacker
+- Script kiddie
+- Hacktivist
+- Advanced hacker
+- Cyber terrorist
+- Cracker
+- Phracker
+- Fraudster
