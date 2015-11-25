@@ -13,3 +13,5 @@ Konu | Açıklama
 # İletişim
 
 Eğitim ile ilgili tüm problemler ve sorular için [mail grubu](https://groups.google.com/forum/#!forum/hacker-camp) kullanılmaktadır. Diğer sorularınız için camp@octosec.net adresine mail atabilirsiniz.
+
+[![Logo](logo.png)](http://www.octosec.net)
