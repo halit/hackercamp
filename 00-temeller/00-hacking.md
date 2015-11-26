@@ -8,7 +8,7 @@
 - Gerçekleştirilen **hack** eyleminin diğer **hackerlar** tarafından takdir edilmesiyle, eylemin değerinde de artış yaşanmaktadır. İyi bir **hacker** yaptığı iyi **hackler** ile tanınır ve saygı duyulur.
 - Biz bu eğitim boyunca **hack** kavramını siber güvenlik alanı altında inceleyeceğiz. 
 - Bu açıdan bakıldığında **hack** bir bilişim sistemi üzerindeki açıklığı kullanmak olarak nitelendirilebilir. 
-- Kullanılan açıklığın izini veya izinsiz kullanılması ile suçlu/suçsuz kimseler ortaya çıkmaktadır. 
+- Kullanılan açıklığın izinli veya izinsiz kullanılması ile suçlu/suçsuz kimseler ortaya çıkmaktadır. 
 - Örneğin bir bilişim sistemine izinsiz erişim sağlayan kişi **suçlu** durumuna gelirken, önceden anlaşmalı bir şekilde gerçekleştirilen güvenlik testlerinde bir sisteme erişim sağlayan kişi **güvenlik uzmanı** olarak tanımlanmaktadır.
 
 ## Hacker
