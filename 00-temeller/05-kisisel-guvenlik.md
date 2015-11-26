@@ -54,7 +54,7 @@
 
 ## Örnekler
 
-- Windows işletim sistemine sahip, full disk encryption olmayan, admin parolası bilinmeyen bir sisteme live cd kullanarak erişim.
+- Windows işletim sistemine sahip, full disk encryption olmayan, admin parolası bilinmeyen bir sisteme live cd kullanarak erişim. (Utilman.exe yöntemi)
 - En çok kullanılan 4 kablosuz ağın güvenliklerine göre analizi.
 
 ## Ödev
