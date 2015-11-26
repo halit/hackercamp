@@ -44,6 +44,7 @@ Paylaşımlı ağlar kişisel güvenlik için en büyük tehditlerin başında g
 - [Telegram][17] uygulamasının kurulması ve secret chat özelliğinin incelenmesi.
 - Vlan hopping kavramının araştırılması.
 - Sanallaştırma çözümlerinin getirdiği avantajları kavrama.
+- DNS Crypt kullanılması, getirdiği önlemleri detaylıca inceleme.
 
 [1]: https://wikileaks.org/hackingteam/emails/
 [2]: https://bgr.com/2015/07/31/windows-10-upgrade-spying-how-to-opt-out/
