@@ -14,11 +14,15 @@
 - [Freenet][5]
 - [Anonet][6]
 - [TOR][7]
+- 
+## Örnek
+
+- Chaos network yapısına içeriden bakış. [Node Durumları][8]
 
 ## Ödev
 
-- DN42 networküne kişisel sunucu ile dahil olma, BGP protokolünün ve mesh networklerinin çalışma prensibini anlama
-- TOR ağının çalışma prensibinin araştırılması, hangi şartlarda neden güvensiz olduğunun kavranması
+- DN42 networküne kişisel sunucu ile dahil olma, BGP protokolünün ve mesh networklerinin çalışma prensibini anlama.
+- TOR ağının çalışma prensibinin araştırılması, hangi şartlarda neden güvensiz olduğunun kavranması.
 
 [1]: http://wiki.hamburg.ccc.de/index.php/ChaosVPN
 [2]: http://wiki.hamburg.ccc.de/ChaosVPN:IPRanges
@@ -27,3 +31,4 @@
 [5]: https://freenetproject.org/
 [6]: http://anonet.org
 [7]: https://www.torproject.org/
+[8]: http://vpnhub1.hack/chaosvpn.png
