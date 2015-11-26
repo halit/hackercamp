@@ -3,7 +3,7 @@
 ## Kavram Olarak Siber Güvenlik
 
 - Tüm bilişim sistemlerini kapsayan genel bir güvenlik kavramıdır. 
-- Genellikle bilgi güvenliği ile karıştırılmaktadır. Ancak **siber güvenlik**, **bilgi güvenliğine** göre daha geniş kapsamlıdır. İçerisinde birçok alt alan bulundurmaktadır. 
+- Genellikle bilgi güvenliği ile karıştırılmaktadır. Ancak **siber güvenlik**, **bilgi güvenliğine** göre daha geniş kapsamlıdır.
 - Siber savaş, siber ordu gibi diğer kavramlar ile birlikte değerlendirilmektedir.
 
 ## Aktörler
