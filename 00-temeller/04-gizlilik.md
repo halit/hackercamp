@@ -61,14 +61,14 @@
 
 ## Ödev
 
-- [Digitalocean][2], [linode][3] gibi sağlayıcılardan alınacak ucuz linux sunucular içerisine kişisel vpn kurulması ve bağlantı gerçekleştirilmesi
-- Bitcoin cüzdanı oluşturulması ve saklanması
-- [Tails][4], [whonix][5] gibi işletim sistemlerinin kullanılması ve amaçlarının kavranması
+- [Digitalocean][2], [linode][3] gibi sağlayıcılardan alınacak ucuz linux sunucular içerisine kişisel vpn kurulması ve bağlantı gerçekleştirilmesi.
+- Bitcoin cüzdanı oluşturulması ve saklanması.
+- [Tails][4], [whonix][5] gibi işletim sistemlerinin kullanılması ve amaçlarının kavranması.
 - Harici bir diski veya USB diski truecrypt containeri haline getirme, aynı container içerisinde hidden container oluşturma
-- Kişisel public-private key ikililerinin oluşturulması, [PGP][6] kullanılması, [Enigmail][7] ile imzalı mail gönderilmesi
-- [PGP][6] ile simetrik şifreli dosya oluşturulması, [PGP][6] ile asimetrik şifreli dosya oluşturulması
-- Jabber clienti kurulması, [OTR][8] kullanılması
-- Prepaid kart sahibi olma
+- Kişisel public-private key ikililerinin oluşturulması, [PGP][6] kullanılması, [Enigmail][7] ile imzalı mail gönderilmesi.
+- [PGP][6] ile simetrik şifreli dosya oluşturulması, [PGP][6] ile asimetrik şifreli dosya oluşturulması.
+- Jabber clienti kurulması, [OTR][8] kullanılması.
+- Prepaid kart sahibi olma.
 
 [1]: https://bitcoin.org/tr/
 [2]: https://www.digitalocean.com/
