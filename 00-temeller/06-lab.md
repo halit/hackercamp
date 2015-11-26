@@ -20,7 +20,7 @@
 ## Ayarlamalar
 
 - **pentest**: Kali Linux işletim sisteminin kurulması gerekmektedir. Bunun için [default][7] ayarlar kullanılabilir. Kurulum yapıldıktan sonra snapshot alınması gerekmektedir.
-- **pentestlab-network**: Metasploitable dağıtımının kurulması gerekmektedir. İlk kurulumdan sonra snapshop alınması yeterlidir.
+- **pentestlab-network**: Metasploitable dağıtımının kurulması gerekmektedir. İlk kurulumdan sonra snapshot alınması yeterlidir.
 - **pentestlab-web**: Herhangi bir ayarlama gerektirmemektedir. ISO ile birlikte live olarak kullanılabilir.
 - **pentestlab-win**: Kurulum yapıldıktan sonra firewall özelliğinin devredışı bırakılması gerekmektedir.
 - **malwarelab-32**: Kurulumdan sonra çeşitli araçların kurulması gerekmektedir. Bu araçlar konusu geldiğinde paylaşılacaktır.
