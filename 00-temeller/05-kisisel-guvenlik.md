@@ -19,7 +19,7 @@ Mobil cihazların kullanım oranında yer alan ciddi yükseliş, hackerlar açı
 ## Sosyal Medya Güvenliği
 
 Facebook, twitter gibi sosyal medya kullanımlarına ayrıca dikkat edilmesi gerekmektedir. Otomatize araçlar ile rahatlıkla bilgi toplanması ve sınıflandırma yapma şansı tanımaktadır. Ayrıca büyük saldırılarda büyük veri kaçaklarına sebep olmaktadır. 
-Günümüzde çokça meşhur olan anlık mesajlaşma yazılımlarına da ayrıca dikkat edilmelidir. Örneğin [whatsapp][16] gibi şifresiz iletişim yapan uygulamalar yerine [telegram][17] çözümler tercih edilmelidir.
+Günümüzde çokça meşhur olan anlık mesajlaşma yazılımlarına da ayrıca dikkat edilmelidir. Örneğin [whatsapp][16] gibi şifresiz iletişim yapan uygulamalar yerine [telegram][17] gibi çözümler tercih edilmelidir.
 
 ## Sunucu Güvenliği
 
