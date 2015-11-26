@@ -91,5 +91,5 @@
 - Advanced hacker
 - Cyber terrorist
 - Cracker
-- Phracker
+- Phreacker
 - Fraudster
