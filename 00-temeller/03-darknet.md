@@ -2,7 +2,10 @@
 
 ## Darknet Kavramı
 
-**Darknet** veya bir diğer tabir ile **Deepweb** hackerların kendilerini internetten izole etme düşüncesiyle ortaya çıkmış kavramlardır. Burada gerçekleştirilen izolasyon bazen gizlilik üzerineyken bazen de bilgi paylaşımı üzerinedir. Günümüzde bazı bu tarz networkler siber suç yuvası haline dönmüştür. Haliyle yetkililerin üzerinde çalışmalar yapmaya başladığı bir alan haline gelmiştir.
+- **Darknet** veya bir diğer tabir ile **Deepweb** hackerların kendilerini internetten izole etme düşüncesiyle ortaya çıkmış kavramlardır. 
+- Burada gerçekleştirilen izolasyon bazen gizlilik üzerineyken bazen de bilgi paylaşımı üzerinedir. 
+- Günümüzde bazı bu tarz networkler siber suç yuvası haline dönmüştür. 
+- Haliyle yetkililerin üzerinde çalışmalar yapmaya başladığı bir alan haline gelmiştir.
 
 ## Önemli Darknetler
 
