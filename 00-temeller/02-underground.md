@@ -2,19 +2,25 @@
 
 ## Underground Kavramı
 
-Genellikle hackerların bilgi paylaşımında bulundukları tüm bölgeler **underground** olarak nitelendirilmektedir. Bu bölgeler web üzerinde olabileceği gibi irc, jabber gibi benzeri platformlar üzerinde de olabilmektedir.
+- Genellikle hackerların bilgi paylaşımında bulundukları tüm bölgeler **underground** olarak nitelendirilmektedir. 
+- Bu bölgeler web üzerinde olabileceği gibi irc, jabber gibi benzeri platformlar üzerinde de olabilmektedir.
 
 ## Underground Dergiler
 
-Bu tarz dergilerden en ünlüsü şüphesiz ki [Phrack][1] dergisidir. İçeriği ve tarzı ile hackerlar arasında ayrı bir yere sahiptir. Diğer dergilere örnek olarak da **Prophile** ve **Loopback** verilebilir.
+- Bu tarz dergilerden en ünlüsü şüphesiz ki [Phrack][1] dergisidir. İçeriği ve tarzı ile hackerlar arasında ayrı bir yere sahiptir. 
+- Diğer dergilere örnek olarak da **Prophile** ve **Loopback** verilebilir.
 
 ## Siber Suçlar
 
-Eski tarihler **underground** platformlarda bilgi paylaşımı ön planda iken artık yerini siber suçlara bırakmıştır. Bu kapsamda çalınan özel verilerin(kredi kartı, banka bilgiler, kişisel kayıtlar vs), sıfırıncı gün açıklıklarının, sunucu ve platform hesaplarının satıldıkları ortamlara dönmeye başlamıştır.
+- Eski tarihler **underground** platformlarda bilgi paylaşımı ön planda iken artık yerini siber suçlara bırakmıştır. 
+- Bu kapsamda çalınan özel verilerin(kredi kartı, banka bilgiler, kişisel kayıtlar vs), sıfırıncı gün açıklıklarının, sunucu ve platform hesaplarının satıldıkları ortamlara dönmeye başlamıştır.
 
 ## Hackerspace
 
-İlk kısımda bahsedilen **hacker** akımının temsilcileri kendisi gibi düşünen kimseler ile **hackerspace** diye bahsedilen oluşumlar kurmaktadır. Bu oluşumların tüm hepsi **siber güvenlik** kavramı ile ilgilenmemektedir. [Chaos Computer Club][2] ağırlıklı olarak siber güvenlik ile ilgilenen bir **hackerspace** oluşumudur. Örneğin Türkiye'de yer alan [İstanbul Hackerspace][3], [Denizli Hackerspace][4] ve [Trabzon Hackerspace][5] ağırlıklı olarak siber güvenlik ile ilgilenmemektedir.
+- İlk kısımda bahsedilen **hacker** akımının temsilcileri kendisi gibi düşünen kimseler ile **hackerspace** diye bahsedilen oluşumlar kurmaktadır. 
+- Bu oluşumların tüm hepsi **siber güvenlik** kavramı ile ilgilenmemektedir. 
+- [Chaos Computer Club][2] ağırlıklı olarak siber güvenlik ile ilgilenen bir **hackerspace** oluşumudur. 
+- Örneğin Türkiye'de yer alan [İstanbul Hackerspace][3], [Denizli Hackerspace][4] ve [Trabzon Hackerspace][5] ağırlıklı olarak siber güvenlik ile ilgilenmemektedir.
 
 ## Ödev
 
