@@ -17,6 +17,8 @@
 - Bunun için aşağıdaki benzer kombinasyonlar kurulabilmektedir. 
 - Burada HACKED kelimesi hackerlar tarafından daha önceden ele geçirilmiş sunucuları veya kişisel bilgisayarları belirtmektedir.
 
+### Bazı Kombinasyonlar
+
 - ATTACKER -> VPN -> TARGET
 - ATTACKER -> VPN -> VPN -> TARGET
 - ATTACKER -> VPN -> HACKED -> HACKED -> ... -> TARGET
@@ -25,6 +27,8 @@
 - ATTACKER -> VPN -> DARKNET -> TARGET
 - ATTACKER -> DARKNET -> TARGET
 - ATTACKER -> HACKED -> HACKED -> .. -> TARGET
+
+## Siber Güvenlik Açısından
 
 - Siber güvenlik uzmanları da bazı zamanlar içerisinde gizlilik ihtiyacı duymaktadır. 
 - Örneğin X ülkesinde savunma sanayi firmasında çalışan bir siber güvenlik uzmanı, gün içerisinde çeşitli hacker forumlarını vs takip etmesi gerekmektedir. 
@@ -39,7 +43,6 @@
 - Temelinde kriptografik sonuçların olduğu Bitcoin hackerların vazgeçilmezidir. 
 - Her bir ticaret için ayrı oluşturulan cüzdanlar sayesinde sahiplik olayı ortadan kalkmaktadır. 
 - Ayrıca ilk başta legal yollardan döndürülen paranın da anonimleştirilmesi için **Para Yıkama** denilen teknikler kullanılmaktadır.
-
 - Yukarıda bahsedildiği gibi siber güvenlik uzmanlarının da internet üzerinden çeşitli ticaret yapmaları gerekebilmektedir.
 - Örneğin alacakları VPN servislerinin ödemelerini kendi hesapları yerine bitcoin üzerinden yapmayı tercih etmektedir. 
 - Aynı şekilde bitcoin cüzdanlarına aktarılacak paraları da gene yasal olan prepaid kartlar aracılığı ile kendi cebinden sağlayabilmektedir.
@@ -49,7 +52,6 @@
 - Hackerlar ele geçirdikleri verileri, siber güvenlik uzmanları da işleri sırasında elde ettikleri verileri saklama ihtiyacı duymaktadır. 
 - Bunun için en çok kullanılan araç şüphesiz ki [Truecrypt][9] aracıdır. 
 - Her ne kadar geliştirilmesinin durdurulması konusunda çeşitli şüpheler bulunsa da aktif olarak hem siber güvenlik uzmanları hem de hackerlar tarafında sıkça kullanılmaktadır.
-
 - Veri güvenliği kısmında diğer bir önemli nokta da [PGP][6]'dir. 
 - Ağırlıklı olarak mail iletişimi sırasında kullanılsa da verilerin saklanması konusunda da sıkça kullanılmaktadır. 
 - Gmail veya benzer bir mail sağlayıcısını kullanan hem saldırgan hem de uzmanlar, mail göndermek istedikleri kişinin public keyi ile veriyi şifreleyip karşı tarafa göndermektedir. 
