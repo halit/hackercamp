@@ -2,13 +2,23 @@
 
 ## Hack
 
-Herhangi bir sistemi amacı dışında kullanma, sorunlara üretilen yaratıcı çözümler ve genellikle yasak olarak nitelendirilen konularda bulunan yasal boşlukların genel adıdır. Medya tarafından genellikle siber suçluların yaptıkları eylemler **hack** olarak nitelendirilmektedir. Ancak bu davranış tamamen yanlıştır. Bir babaannenin yoğurt kabından saksı yapması da bir hack olayı iken bilgisayar grafiklerinde karakök formülünü integer formunda hesaplayan hızlı bir algoritma geliştirme de **hack** olarak nitelendirilir. Gerçekleştirilen **hack** eyleminin diğer **hackerlar** tarafından takdir edilmesiyle, eylemin değerinde de artış yaşanmaktadır. İyi bir **hacker** yaptığı iyi **hackler** ile tanınır ve saygı duyulur.
+- Herhangi bir sistemi amacı dışında kullanma, sorunlara üretilen yaratıcı çözümler ve genellikle yasak olarak nitelendirilen konularda bulunan yasal boşlukların genel adıdır. 
+- Medya tarafından genellikle siber suçluların yaptıkları eylemler **hack** olarak nitelendirilmektedir. Ancak bu davranış tamamen yanlıştır. 
+- Bir babaannenin yoğurt kabından saksı yapması da bir hack olayı iken bilgisayar grafiklerinde karakök formülünü integer formunda hesaplayan hızlı bir algoritma geliştirme de **hack** olarak nitelendirilir.
+- Gerçekleştirilen **hack** eyleminin diğer **hackerlar** tarafından takdir edilmesiyle, eylemin değerinde de artış yaşanmaktadır. İyi bir **hacker** yaptığı iyi **hackler** ile tanınır ve saygı duyulur.
 
-Biz bu eğitim boyunca **hack** kavramını siber güvenlik alanı altında inceleyeceğiz. Bu açıdan bakıldığında **hack** bir bilişim sistemi üzerindeki açıklığı kullanmak olarak nitelendirilebilir. Kullanılan açıklığın izini veya izinsiz kullanılması ile suçlu/suçsuz kimseler ortaya çıkmaktadır. Örneğin bir bilişim sistemine izinsiz erişim sağlayan kişi **suçlu** durumuna gelirken, önceden anlaşmalı bir şekilde gerçekleştirilen güvenlik testlerinde bir sisteme erişim sağlayan kişi **güvenlik uzmanı** olarak tanımlanmaktadır.
+- Biz bu eğitim boyunca **hack** kavramını siber güvenlik alanı altında inceleyeceğiz. 
+- Bu açıdan bakıldığında **hack** bir bilişim sistemi üzerindeki açıklığı kullanmak olarak nitelendirilebilir. 
+- Kullanılan açıklığın izini veya izinsiz kullanılması ile suçlu/suçsuz kimseler ortaya çıkmaktadır. 
+- Örneğin bir bilişim sistemine izinsiz erişim sağlayan kişi **suçlu** durumuna gelirken, önceden anlaşmalı bir şekilde gerçekleştirilen güvenlik testlerinde bir sisteme erişim sağlayan kişi **güvenlik uzmanı** olarak tanımlanmaktadır.
 
 ## Hacker
 
-En kısa haliyle **hack** yapan kişiye **hacker** denilmektedir. **Hackerlar** kendi içlerinde dil, din, ırk, yaş gözetmeksizin herkese eşit olarak yaklaşmaktadır. Statü olarak belirleyici etken tamamen bilgi seviyesidir. **Hacker Etiği** ve **Hacker Manifestosu** düşünce yapılarını özetlemektedir. **Hackerlar** farklı motivasyonlara sahip olabilmektedirler. Bu motivasyonlarından dolayı kendi aralarında gruplanmalar yaşanmıştır.
+- En kısa haliyle **hack** yapan kişiye **hacker** denilmektedir. 
+- **Hackerlar** kendi içlerinde dil, din, ırk, yaş gözetmeksizin herkese eşit olarak yaklaşmaktadır. 
+- Statü olarak belirleyici etken tamamen bilgi seviyesidir. 
+- **Hacker Etiği** ve **Hacker Manifestosu** düşünce yapılarını özetlemektedir. 
+- **Hackerlar** farklı motivasyonlara sahip olabilmektedirler. Bu motivasyonlarından dolayı kendi aralarında gruplanmalar yaşanmıştır.
 
 ### Hacker Etiği
 
