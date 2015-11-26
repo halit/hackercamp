@@ -24,6 +24,7 @@
 
 ## Ödev
 
+- http://www.textfiles.com/hacking/
 - http://phrack.org/issues/64/4.html
 - http://phrack.org/issues/7/3.html
 - http://phrack.org/issues/67/16.html
