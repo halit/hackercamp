@@ -6,7 +6,6 @@
 - Medya tarafından genellikle siber suçluların yaptıkları eylemler **hack** olarak nitelendirilmektedir. Ancak bu davranış tamamen yanlıştır. 
 - Bir babaannenin yoğurt kabından saksı yapması da bir hack olayı iken bilgisayar grafiklerinde karakök formülünü integer formunda hesaplayan hızlı bir algoritma geliştirme de **hack** olarak nitelendirilir.
 - Gerçekleştirilen **hack** eyleminin diğer **hackerlar** tarafından takdir edilmesiyle, eylemin değerinde de artış yaşanmaktadır. İyi bir **hacker** yaptığı iyi **hackler** ile tanınır ve saygı duyulur.
-
 - Biz bu eğitim boyunca **hack** kavramını siber güvenlik alanı altında inceleyeceğiz. 
 - Bu açıdan bakıldığında **hack** bir bilişim sistemi üzerindeki açıklığı kullanmak olarak nitelendirilebilir. 
 - Kullanılan açıklığın izini veya izinsiz kullanılması ile suçlu/suçsuz kimseler ortaya çıkmaktadır. 
