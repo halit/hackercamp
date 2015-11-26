@@ -33,6 +33,7 @@
 - http://phrack.org/issues/68/19.html
 - http://phrack.org/issues/47/21.html
 
+
 [1]: http://www.phrack.org/
 [2]: https://www.ccc.de/en/
 [3]: https://istanbulhs.org/
