@@ -2,11 +2,11 @@
 
 ## Sanallaştırma
 
-Herhangi bir sanallaştırma çözümü kullanılabilir. Ancak eğitim içerisinde [virtualbox][1] yazılımı kullanılacaktır.
+- Herhangi bir sanallaştırma çözümü kullanılabilir. Ancak eğitim içerisinde [virtualbox][1] yazılımı kullanılacaktır.
 
 ## Network
 
-Sanal makineler için **PentestNetwork** ve **MalwrNetwork** isimli iki adet nat networku oluşturulacaktır. İlgili networkler içerisinde 10.0.3.0/24 ve 10.0.4.0/24 ip blokları kullanılabilir.
+- Sanal makineler için **PentestNetwork** ve **MalwrNetwork** isimli iki adet nat networku oluşturulacaktır. İlgili networkler içerisinde 10.0.3.0/24 ve 10.0.4.0/24 ip blokları kullanılabilir.
 
 ## Sanal Makineler
 
