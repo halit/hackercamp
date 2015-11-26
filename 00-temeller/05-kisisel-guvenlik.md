@@ -13,9 +13,8 @@
 - Burada güvenlikten bahsedilen hem sistem içerisine sızabilme hem de verilerin başka kimseler tarafından paylaşılması olabilmektedir. 
 - Örneğin Windows 10 işletim sisteminin gizliliğinizi tehdit edecek bir çok [özelliği][2] ortaya çıkmıştır. 
 - Bu yüzden özgür ve açık kaynaklı işletim sistemlerine yönelmek doğru olacaktır. 
-- Bu noktada yapılan bir hata da [Kali][3] veya [Blackarch][4] gibi güvenlik alanında çalışanlara özel geliştirilmiş GNU/Linux dağıtımlarını host sistem olarak kullanmaktır.
-- Bu kişisel güvenliği riske atacak bir durumdur. 
-- Bu yüzden host olarak [Arch Linux][5] veya [Gentoo][6] gibi işletim sistemlerini kullanmak daha doğru olacaktır. 
+- Burada yapılan büyük bir hata da [Kali][3] veya [Blackarch][4] gibi güvenlik alanında çalışanlara özel geliştirilmiş GNU/Linux dağıtımlarını host sistem olarak kullanmaktır. Bu kişisel güvenliği riske atacak bir durumdur. 
+- Host olarak [Arch Linux][5] veya [Gentoo][6] gibi işletim sistemlerini kullanmak daha doğru olacaktır. 
 - Tabi host işletim sistemlerinin [full disk encryption][7] olarak kurulması büyük önem taşımaktadır. 
 - Aynı şekilde işletim sistemi güvenliğinin sağlanmasından sonra BIOS güvenliği de ayrı bir önem taşımaktadır.
 
