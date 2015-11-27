@@ -1,6 +1,6 @@
 # Hackercamp
 
-Hackercamp, üniversite öğrencilerine yönelik geniş kapsamlı uygulamalı bir siber güvenlik eğitimidir. Burada yer alan tüm materyaller ders içerisinde kullanmak üzere hazırlanmıştır.
+Hackercamp, üniversite öğrencilerine yönelik geniş kapsamlı uygulamalı bir siber güvenlik eğitimidir. Burada yer alan tüm materyaller ders içerisinde kullanılmak üzere hazırlanmıştır.
 
 Konu | Açıklama
 ---- | -----------
