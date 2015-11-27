@@ -52,6 +52,13 @@
 - Eğer zorunlu ise ortadaki adam saldırıları için önlem alınması ve VPN kullanılarak internete çıkılması gerekmektedir. 
 - Tabi tüm bunlar %100 derecede önlem sağlamamaktadır.
 
+## Kişisel Ağ Güvenliği
+
+- Ev içerisinde internete bağlanma amaçlı kullanılan modemlerin güvenliği de kişisel güvenlik açısından önemlidir.
+- Kablosuz ağlarda WPS pinlerinin aktifliği, MAC filtrelemesi gibi güvenlik önlemlerinin ayrıca incelenmesi ve sadece gerektiği takdirde aktif olmaları gerekmektedir.
+- Ayrıca modemler içerisinde kullanılan yazılımlar için [OpenWRT][19] gibi çözümlerin kullanılması da daha doğru olacaktır.
+- Aynı şekilde ağ içerisinde [Pfsense][20] kullanılması da tercih edilebilir.
+
 ## Örnekler
 
 - Windows işletim sistemine sahip, full disk encryption olmayan, admin parolası bilinmeyen bir sisteme live cd kullanarak erişim. (Utilman.exe yöntemi)
@@ -68,6 +75,7 @@
 - Vlan hopping kavramının araştırılması.
 - Sanallaştırma çözümlerinin getirdiği avantajları kavrama.
 - DNS Crypt kullanılması, getirdiği önlemleri detaylıca inceleme.
+- Sanal makine içerisine [Pfsense][20] kurulması ve test edilmesi.
 
 [1]: https://wikileaks.org/hackingteam/emails/
 [2]: https://bgr.com/2015/07/31/windows-10-upgrade-spying-how-to-opt-out/
@@ -87,3 +95,5 @@
 [16]: https://www.whatsapp.com/?l=tr
 [17]: https://telegram.org/
 [18]: 04-gizlilik.md
+[19]: https://openwrt.org/
+[20]: https://www.pfsense.org/
