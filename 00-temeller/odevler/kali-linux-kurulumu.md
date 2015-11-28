@@ -10,11 +10,11 @@
 
 ![2](images/Selection_2.png)
 
-- Burada **NatNetwork** seçmesine çift tıklanıp **OK** butonuna tıklanır.
+- Burada yeni eklenen **NatNetwork** seçeneğine çift tıklanır.
 
 ![3](images/Selection_3.png)
 
-- Network ismi belirlenip devam edilir.
+- Network ismi ve ip aralığı belirlenir.
 
 ![4](images/NAT Network Details_008.png)
 
@@ -24,9 +24,9 @@
 
 ## Sanal Makinenin Oluşturulması
 
-- Sanal makineyi açıp, sol üstteki  **New** butonuna tıklıyoruz. 
+- Yeni bir sanal makine oluşturmak için **New** butonuna tıklıyoruz. 
 
-![6](images/Selection_010.png))
+![6](images/Selection_010.png)
 
 - Sanal makinenin ismini belirleyip  **Type** ve **Version** kısımları aşağıdaki gibi seçiyoruz.
 
@@ -56,15 +56,15 @@
 
 ![13](images/Selection_017.png)
 
-- Burada **Setting** butonuna tıklıyoruz.
+- Burada yeni oluşturulan sanal makine seçili iken **Settings** butonuna tıklıyoruz.
 
 ![14](images/Selection_018.png)
 
-- Sağ kısımdan **Network** butonuna tıklayıp resimdeki seçenekleri seçiyoruz.
+- Sağ kısımdan **Network** butonuna tıklayıp daha önceden oluşturduğumuz NAT networkünü seçiyoruz.
 
 ![15](images/pentest - Settings_019.png)
 
-- Daha sonra sol kısımdan **Storage** butonuna tıklayıp, **Empty** seçmesine geçiyoruz.
+- Daha sonra sol kısımdan **Storage** kısmına geçiyoruz.
 
 ![16](images/pentest - Settings_020.png)
 
@@ -72,7 +72,7 @@
 
 ![17](images/Selection_022.png)
 
-- Ve iso dosyasını seçiyoruz.
+- İndirdiğimiz Kali Linux imajının yolunu seçiyoruz.
 
 ![18](images/Selection_023.png)
 
@@ -82,7 +82,7 @@
 
 ## Kali Linux Kurulumu
 
-- Sanal makineyi açıp pentest makinesini seçip **Start** butonuna tıklıyoruz.
+- Yeni oluşturduğumuz sanal makineyi çalıştırmak için **Start** butonuna tıklıyoruz.
 
 ![19](images/Selection_025.png)
 
@@ -106,7 +106,7 @@
 
 ![24](images/Selection_030.png)
 
-- Daha sonra aşağıdaki gibi seçip devam ediyoruz.
+- Daha sonra aşağıdaki gibi seçip devam ediyoruz. Buraları kendinize uygun olarak değiştirebilirsiniz.
 
 ![25](images/Selection_031.png)
 
@@ -118,15 +118,15 @@
 
 ![27](images/Selection_033.png)
 
-- Burada **Hostname** belirleyip devam ediyoruz.
+- **Hostname** belirleyip devam ediyoruz.
 
 ![28](images/Selection_034.png)
 
-- **Domain** kısmına boşluk koyup devam ediyoruz.
+- **Domain** kısmını boş bırakıyoruz.
 
 ![29](images/Selection_035.png)
 
-- Parolamızı giriyoruz.
+- Parolamızı giriyoruz. Onay kutucuğu geldiğinde tekrardan giriyoruz.
 
 ![30](images/Selection_036.png)
 
@@ -134,7 +134,7 @@
 
 ![31](images/Selection_037.png)
 
-- Aşağıdaki gibi seçip devam ediyoruz.
+- Sanal makine içerisindeki tüm diski kullanmak adına aşağıdaki gibi seçebiliriz. Full-disk encryption özelliği ile birlikte kuracaksanız **Guided - use entire disk and set up encrypted LVM** seçeneğini seçebilirsiniz.
 
 ![32](images/Selection_038.png)
 
@@ -142,11 +142,11 @@
 
 ![33](images/Selection_039.png)
 
-- Aşağıdaki gibi seçip devam ediyoruz.
+- Tüm dosyaları tek bölümde tutabiliriz. Bunun için aşağıdaki seçeneği seçiyoruz.
 
 ![34](images/Selection_040.png)
 
-- Aşağıdaki gibi seçip devam ediyoruz.
+- Bölümleme işini bitiriyoruz.
 
 ![35](images/Selection_041.png)
 
@@ -192,7 +192,7 @@
 
 ![46](images/Selection_054.png)
 
-- **Password** giriyoruz. Kali'yi açmış bulunmaktayız.
+- **Password** giriyoruz. Eğer herhangi bir problem yoksa önünüze masaüstü gelmesi gerekiyor.
 
 ![47](images/Selection_055.png)
 
@@ -213,7 +213,7 @@ cd vbox/
 
 ![50](images/Selection_060.png)
 
-- **Machine->Reset Host** deyip sistemi baştan başlatıyoruz ve kurulumu tamamlamış oluyoruz.
+- **Machine->Reset Host** deyip sistemi baştan başlatıyoruz ve kurulumu tamamlamış oluyoruz. Burada doğrudan komut satırından **reboot** komutu verilerek de sistem yeniden başlatılabilir.
 
 ![51](images/Workspace 1_061.png)
 
@@ -229,7 +229,7 @@ cd vbox/
 
 ## Snapshot Alınması
 
-- Sol üstten **Snapshot** seçmesine tıklayıp aşağıdaki gibi makinenizin son durumunun snapshot'ını alabilirsiniz.
+- Tüm işlerimizi tamamladıysak sol üstten **Snapshot** seçmesine tıklayıp aşağıdaki gibi makinenizin son durumunun snapshot'ını alabilirsiniz.
 
 ![54](images/Selection_065.png)
 
