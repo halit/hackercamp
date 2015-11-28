@@ -8,7 +8,7 @@
 
 ## Bitcoin cüzdanı oluşturulması
 
-- Bitcoin cüzdanı oluşturması çeşitli platformlar ile mümkündür. Web üzerinden oluşturulması en çok kullanılan yönlemlerden birisi olduğu gibi, mobilden ve bilgisayarlarınızdan da gerçekleştirmeniz mümkündür. Cüzdan çeşitleri için [bitcoin][1] sitesini inleyebilirsiniz.
+- Bitcoin cüzdanı oluşturması çeşitli platformlar ile mümkündür. Web üzerinden oluşturulması en çok kullanılan yönlemlerden birisi olduğu gibi, mobilden ve bilgisayarlarınızdan da gerçekleştirmeniz mümkündür. Cüzdan çeşitleri için [bitcoin][1] sitesini inceleyebilirsiniz.
 
 - Ben web üzerinden herhangibi bir servisi seçerek bir cüzdan oluşturmayı planlıyorum. Öncedende kullandığım [coinbase][2] servisine giriş yaparak basit register verilerini girerek üye oluyorum.
 
