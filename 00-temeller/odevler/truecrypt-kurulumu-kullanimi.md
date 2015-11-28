@@ -25,6 +25,10 @@
 
 >sudo rm -rm /etc/apt/sources.list.d
 
+- İşlem bittikten sonra terminal üzerinden truecrypt yazarak programı çalıştırmanız mümkündür. 
+
+# Truecrypu Usb şifreleme
+
 
 [1]: http://www.onaymetinkivilcim.com/Dersler/Truecrypt-Kullanimi/65
 [2]: https://github.com/DrWhax/truecrypt-archive
