@@ -14,7 +14,9 @@
 ## Linux platformunda Truecrypt Kurulumu
 
 > sudo add-apt-repository ppa:stefansundin/truecrypt
+
 > sudo apt-get update
+
 > sudo apt-get install truecrypt
 
 - Yukarıdaki linux kodlarını sırasıyla terminal üzerinde çalıştırıyoruz. 
