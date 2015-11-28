@@ -150,7 +150,7 @@
 
 ![35](images/Selection_041.png)
 
-- **Yes** diyip devam ediyoruz.
+- **Yes** deyip devam ediyoruz.
 
 ![36](images/Selection_042.png)
 
@@ -198,11 +198,30 @@
 
 ## Guest Eklentilerinin Kurulumu
 
-/home/gizem/Pictures/Selection_058.png
-/home/gizem/Pictures/Selection_059.png
-/home/gizem/Pictures/Selection_060.png
-/home/gizem/Pictures/Workspace 1_061.png
+- Terminal'i açıyoruz.
+
+![48](images/Selection_058.png)
+
+```
+cp /media/cdrom0 vbox -r
+cd vbox/
+./VBoxLinuxAdditions.run
+```
+- Komutlarını aşağıdaki gibi sırayla çalıştırıyoruz.
+
+![49](images/Selection_059.png)
+
+![50](images/Selection_060.png)
+
+- **Machine -> Reset Host** deyip sistemi baştan başlatıyoruz ve kurulumu tamamlamış oluyoruz.
+
+![51](images/Workspace 1_061.png)
 
 ## Sistemin Güncellenmesi
 
-## Snapshot Alınması
+- Aşağıdaki komutu çalıştırarak sistemi güncelleyebilirsiniz.
+
+```sudo apt-get update && apt-get upgrade && apt-get disk-upgrade && apt-get -f install && apt-get autoremove```
+
+![52](images/Selection_062.png)
+
