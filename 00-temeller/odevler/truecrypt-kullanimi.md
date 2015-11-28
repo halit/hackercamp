@@ -29,7 +29,13 @@
 
 - İşlem bittikten sonra terminal üzerinden truecrypt yazarak programı çalıştırmanız mümkündür. 
 
-# Truecrypu Usb şifreleme
+## Truecrypt usb şifreleme yöntemi
+
+- Programı çalıştırdıktan sonra aşağıdaki görselleri takip edebilirsiniz.
+
+![1](images/truecrypt/create.png)
+
+
 
 
 [1]: http://www.onaymetinkivilcim.com/Dersler/Truecrypt-Kullanimi/65
