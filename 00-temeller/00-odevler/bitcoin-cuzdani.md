@@ -1,8 +1,8 @@
-# Bitcoin cüzdanı oluşturulması ve saklanması.
+# Bitcoin cüzdanı oluşturulması ve saklanması
 
 ## Bitcoin nedir?
 
-- Bitcoin sanal bir para birimi olarak adlandırılabilir. Çalışması mining felsefesiyle çalıştığını söylememiz mümkündür. 1 Bitcoin binlerce bilgisayar gücü tarafından üretilmektedir. 
+- Bitcoin sanal bir para birimi olarak adlandırılabilir. Bitcoinin ve diğer coinlerinin mining felsefesiyle çalıştığını söylememiz mümkündür. 1 Bitcoin binlerce bilgisayar gücü tarafından üretilmektedir. 
 
 - Yani aslında 1 bitcoin birimi oldukça küçük sayılara bölünür (0.0000001) ve binlerce bilgisayar tarafından üretilerek toplanır. Bu durumda giriş esnasından sonra para aklamak için oldukça elverişli bir konudur. İnsanları sanal para birimlerine yönlendirme açısından oynanmış bir viral olarak görülebilir. Piyasada binlerce coin çeşiti ve borsası bulunmaktadır.
 
