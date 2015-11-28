@@ -24,7 +24,7 @@
 
 ## Sanal Makinenin Oluşturulması
 
-- Sanal makineyi açtıp, sol üstteki  **New** butonuna tıklıyoruz. 
+- Sanal makineyi açıp, sol üstteki  **New** butonuna tıklıyoruz. 
 
 ![6](images/Selection_010.png))
 
