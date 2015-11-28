@@ -213,7 +213,7 @@ cd vbox/
 
 ![50](images/Selection_060.png)
 
-- **Machine -> Reset Host** deyip sistemi baştan başlatıyoruz ve kurulumu tamamlamış oluyoruz.
+- **Machine->Reset Host** deyip sistemi baştan başlatıyoruz ve kurulumu tamamlamış oluyoruz.
 
 ![51](images/Workspace 1_061.png)
 
