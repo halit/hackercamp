@@ -10,7 +10,7 @@
 
 ## Sanal Makineler
 
-- **pentest**: Debian 64 bit, 20gb disk, 1gb ram, [Kali Linux][2] dağıtımı, PentestNetwork ağı.
+- **pentest**: Debian 64 bit, 20gb disk, 1gb ram, [Kali Linux][2] dağıtımı, PentestNetwork ağı. Ayrıca [bakınız][8]
 - **pentestlab-network**: Debian 64 bit, 8gb disk, 512mb ram, [Metasploitable][3] dağıtımı, PentestNetwork ağı.
 - **pentestlab-web**: Debian 64 bit, 8gb disk, 512mb ram, [Web for pentester][4] dağıtımı, PentestNetwork ağı.
 - **pentestlab-win**: Windows xp 32 bit, 20gb disk, 256mb ram, [Windows XP SP3][5] işletim sistemi, PentestNetwork ağı.
@@ -33,4 +33,4 @@
 [5]: https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d0ada7dc-6b9b-e011-969d-0030487d8897&vsro=8
 [6]: https://e5.onthehub.com/WebStore/Welcome.aspx?ws=d0ada7dc-6b9b-e011-969d-0030487d8897&vsro=8
 [7]: http://docs.kali.org/category/installation
-
+[8]: odevler/kali-linux-kurulumu.md
