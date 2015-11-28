@@ -94,7 +94,7 @@
 
 ![14](images/truecrypt/reg2.png)
 
-![15](images/truecrypt/reg2.1.png)
+![15](images/truecrypt/reg2.2.png)
 
 
 [1]: http://www.onaymetinkivilcim.com/Dersler/Truecrypt-Kullanimi/65
