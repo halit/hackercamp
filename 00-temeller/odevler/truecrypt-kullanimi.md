@@ -33,7 +33,7 @@
 
 - Programı çalıştırdıktan sonra aşağıdaki görselleri takip edebilirsiniz.
 
-![1](images/truecrypt/create.png)
+![3](images/truecrypt/create.png)
 
 
 
