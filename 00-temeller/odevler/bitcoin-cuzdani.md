@@ -8,7 +8,7 @@
 ## Online Bitcoin Cüzdanı Oluşturulması
 
 - Bitcoin cüzdanı oluşturulması çeşitli platformlar ile mümkündür. Web üzerinden oluşturulması en çok kullanılan yöntemlerden birisi olduğu gibi, mobilden ve bilgisayarınızdan da gerçekleştirmeniz mümkündür. Cüzdan çeşitleri için [bitcoin][1] sitesini inceleyebilirsiniz.
-- [Coinbase][2] web üzerinden hizmet sağlayan bir bitcoin servisidir. Cüzdanınızı kendi sunucularında saklama imkanı sağlıyor. Basit bir şekilde web sitesine kayıt olup kullanıma hemen başlayabilirsiniz. Sağ üst tarafta yer alan Wallet Address linkine tıklayarak size özel oluşturulmuş cizdan koduna ulaşabilirsiniz.
+- [Coinbase][2] web üzerinden hizmet sağlayan bir bitcoin servisidir. Cüzdanınızı kendi sunucularında saklama imkanı sağlıyor. Basit bir şekilde web sitesine kayıt olup kullanıma hemen başlayabilirsiniz. Sağ üst tarafta yer alan Wallet Address linkine tıklayarak size özel oluşturulmuş cüzdan koduna ulaşabilirsiniz.
 - Ayarlar bölümünden de birden fazla cüzdan kodu oluşturmanız mümkündür.
 
 ## Bitcoin Yedekleme/Saklama
