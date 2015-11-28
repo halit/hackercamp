@@ -82,7 +82,126 @@
 
 ## Kali Linux Kurulumu
 
+- Sanal makineyi açıp pentest makinesini seçip **Start** butonuna tıklıyoruz.
+
+![19](images/Selection_025.png)
+
+- Aşağıdaki gibi **Install** seçmesini seçip devam ediyoruz.
+
+![20](images/Selection_026.png)
+
+- Buradan dil olarak **English** seçiyoruz. Siz Türkçe de seçebilirsiniz.
+
+![21](images/Selection_027.png)
+
+- Ülke seçiminde önce **Other** seçmesini seçip,
+
+![22](images/Selection_028.png)
+
+- **Asia** deyip,
+
+![23](images/Selection_029.png)
+
+- **Turkey** seçiyoruz.
+
+![24](images/Selection_030.png)
+
+- Daha sonra aşağıdaki gibi seçip devam ediyoruz.
+
+![25](images/Selection_031.png)
+
+- Aşağıdaki gibi Türkçe klavye seçip devam ediyoruz.
+
+![26](images/Selection_032.png)
+
+- Burada kurulumu bekliyoruz.
+
+![27](images/Selection_033.png)
+
+- Burada **Hostname** belirleyip devam ediyoruz.
+
+![28](images/Selection_034.png)
+
+- **Domain** kısmına boşluk koyup devam ediyoruz.
+
+![29](images/Selection_035.png)
+
+- Parolamızı giriyoruz.
+
+![30](images/Selection_036.png)
+
+- Bekliyoruz.
+
+![31](images/Selection_037.png)
+
+- Aşağıdaki gibi seçip devam ediyoruz.
+
+![32](images/Selection_038.png)
+
+- Aşağıdaki gibi seçip devam ediyoruz.
+
+![33](images/Selection_039.png)
+
+- Aşağıdaki gibi seçip devam ediyoruz.
+
+![34](images/Selection_040.png)
+
+- Aşağıdaki gibi seçip devam ediyoruz.
+
+![35](images/Selection_041.png)
+
+- **Yes** diyip devam ediyoruz.
+
+![36](images/Selection_042.png)
+
+- Verilerin diske kopyalanmasını bekliyoruz.
+
+![37](images/Selection_043.png)
+
+- Burada **Yes** diyip devam ediyoruz.
+
+![38](images/Selection_044.png)
+
+- Direk **continue** diyip devam ediyoruz.
+
+![39](images/Selection_045.png)
+
+![40](images/Selection_046.png)
+
+- **Yes** diyip devam ediyoruz.
+
+![41](images/Selection_047.png)
+
+- Aşağıdaki gibi seçip devam ediyoruz.
+
+![42](images/Selection_048.png)
+
+- Bekliyoruz.
+
+![43](images/Selection_049.png)
+
+- **Continue** deyip devam ediyoruz.
+
+![44](images/Selection_050.png)
+
+- Burada sağ alttaki kısımda hiçbirşeyin seçili olmadığından emin oluyoruz.
+
+![45](images/Selection_053.png)
+
+- **Username** giriyoruz.
+
+![46](images/Selection_054.png)
+
+- **Password** giriyoruz. Kali'yi açmış bulunmaktayız.
+
+![47](images/Selection_055.png)
+
 ## Guest Eklentilerinin Kurulumu
+
+/home/gizem/Pictures/Selection_058.png
+/home/gizem/Pictures/Selection_059.png
+/home/gizem/Pictures/Selection_060.png
+/home/gizem/Pictures/Workspace 1_061.png
 
 ## Sistemin Güncellenmesi
 
