@@ -225,3 +225,11 @@ cd vbox/
 
 ![52](images/Selection_062.png)
 
+![53](images/Selection_063.png)
+
+## Snapshot Alınması
+
+- Sol üstten **Snapshot** seçmesine tıklayıp aşağıdaki gibi makinenizin son durumunun snapshot'ını alabilirsiniz.
+
+![54](images/Selection_065.png)
+
