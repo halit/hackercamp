@@ -250,12 +250,23 @@ netstat -antl
 ## Ödev
 
 - Bash script nedir ve nasıl nasıl yazılır?
-- Basit düzeyde bash script örnekleri yazıp, inceleyiniz.
-- Touch ile oluşturulma tarihi farklı dosya oluşturulması.
-- SUID bit kavramının araştırılması.
-- SUID biti set edilmiş dosyaları bulan komutun yazılması.
-- Tüm sistem içerisindeki en büyük 10 dosyayı bulan komutun yazılması.
-- /proc/ dizini altında yer alan dosyaların ve klasörlerin incelenmesi.
-- Firefox ile izlenen bir youtube videosunun /proc/ dizini altından çıkarılması.
-- fdisk ve cfdisk araçlarının kullanımlarının öğrenilmesi. 
-- gparted aracının kurulması ve incelenmesi.
+- Basit düzeyde bash script örnekleri yazıp, inceleyiniz. (dosya okuma, for, while, if)
+- Touch ile oluşturulma tarihi farklı dosya oluşturunuz.
+- SUID bit kavramını araştınız.
+- SUID biti set edilmiş dosyaları bulan komutu yazınız.
+- Tüm sistem içerisindeki en büyük 10 dosyayı bulan komutu yazınız.
+- /proc/ dizini altında yer alan dosyaların ve klasörleri inceleyiniz.
+- Firefox ile izlenen bir youtube videosunu /proc/ dizini altından çıkarınız.
+- fdisk ve cfdisk araçlarının kullanımlarını öğreniniz. USB diskler üzerinde deneme yapınız.
+- gparted aracını kurup, inceleyiniz.
+- zsh kabuğunu kurunuz ve oh-my-zsh eklentisi ile birlikte kullanınız.
+- top ve htop araçlarını kullanınız.
+- Yazılan bir scripti başlangıçta çalışacak şekilde ayarlayınız.
+- Yazılan bir scripti 10 dakikada bir çalışacak şekilde ayarlayınız.
+- Çalıştırılan bir uygulama içerisinde ortaya çıkan hata mesajlarını /dev/null dosyasına yönlendiriniz.
+- ./program1 & ile ./program1 && ./program2 komutu arasındaki farkı kavrayınız.
+- dpkg ile apt-get uygulamaları arasındaki farkı araştırınız.
+- Ubuntu için paket yöneticisi apt-get ise, archlinux, redhat, fedora, centos ve gentoo için ne olduğu araştırınız.
+- Bootloader nedir? Kullandığınız işletim sisteminin bootoaderi nedir?
+- tr, wc, sort, uniq, awk ve sed araçlarının kullanımını öğreniniz.
+- wget ve curl kullanımını araştırırınız.
