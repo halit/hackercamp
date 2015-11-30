@@ -267,7 +267,7 @@ netstat -antl
 - ./program1 & ile ./program1 && ./program2 komutu arasındaki farkı kavrayınız.
 - dpkg ile apt-get uygulamaları arasındaki farkı araştırınız.
 - Ubuntu için paket yöneticisi apt-get ise, archlinux, redhat, fedora, centos ve gentoo için ne olduğu araştırınız.
-- Bootloader nedir? Kullandığınız işletim sisteminin bootoaderi nedir?
+- Bootloader nedir? Kullandığınız işletim sisteminin bootloaderi nedir?
 - tr, wc, sort, uniq, awk ve sed araçlarının kullanımını öğreniniz.
-- wget ve curl kullanımını araştırırınız.
+- wget ve curl kullanımını araştırınız.
 - Bir dosyanın yanlışlıkla silinmesini önlemek için ne yapılabilir?
