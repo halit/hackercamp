@@ -270,3 +270,4 @@ netstat -antl
 - Bootloader nedir? Kullandığınız işletim sisteminin bootoaderi nedir?
 - tr, wc, sort, uniq, awk ve sed araçlarının kullanımını öğreniniz.
 - wget ve curl kullanımını araştırırınız.
+- Bir dosyanın yanlışlıkla silinmesini önlemek için ne yapılabilir?
