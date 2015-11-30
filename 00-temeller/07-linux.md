@@ -141,7 +141,7 @@ mount /dev/sdb1 mnt
 ```
 echo "deneme2" > deneme_dosya
 echo "deneme3" >> deneme_dosya
-cat -d ":" -f1 < /etc/passwd
+cut -d ":" -f1 < /etc/passwd
 cat /etc/passwd | cut -d ":" -f1
 cat /etc/passwd | cut -d ":" -f1 | grep root
 ```
