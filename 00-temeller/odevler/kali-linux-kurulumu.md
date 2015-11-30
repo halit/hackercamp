@@ -200,9 +200,11 @@
 
 - İlk önce **Devices** menüsü altından **Insert Guest Additions CD image** seçeneği ile cd'yi bağlıyoruz.
 
+![48](images/kali-linux/VBoxAdditions.png)
+
 - Terminal'i açıyoruz.
 
-![48](images/kali-linux/Selection_058.png)
+![49](images/kali-linux/Selection_058.png)
 
 ```
 cp /media/cdrom0 vbox -r
@@ -211,13 +213,13 @@ cd vbox/
 ```
 - Komutlarını aşağıdaki gibi sırayla çalıştırıyoruz.
 
-![49](images/kali-linux/Selection_059.png)
+![50](images/kali-linux/Selection_059.png)
 
-![50](images/kali-linux/Selection_060.png)
+![51](images/kali-linux/Selection_060.png)
 
 - **Machine->Reset Host** deyip sistemi baştan başlatıyoruz ve kurulumu tamamlamış oluyoruz. Burada doğrudan komut satırından **reboot** komutu verilerek de sistem yeniden başlatılabilir.
 
-![51](images/kali-linux/Workspace 1_061.png)
+![52](images/kali-linux/Workspace 1_061.png)
 
 ## Sistemin Güncellenmesi
 
@@ -225,13 +227,13 @@ cd vbox/
 
 ```sudo apt-get update && apt-get upgrade && apt-get disk-upgrade && apt-get -f install && apt-get autoremove```
 
-![52](images/kali-linux/Selection_062.png)
+![53](images/kali-linux/Selection_062.png)
 
-![53](images/kali-linux/Selection_063.png)
+![54](images/kali-linux/Selection_063.png)
 
 ## Snapshot Alınması
 
 - Tüm işlerinizi tamamladıysanız sol üstten **Snapshot** seçmesine tıklayıp aşağıdaki gibi makinenizin son durumunun snapshot'ını alabilirsiniz.
 
-![54](images/kali-linux/Selection_065.png)
+![55](images/kali-linux/Selection_065.png)
 
