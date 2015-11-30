@@ -225,7 +225,7 @@ cd vbox/
 
 - Aşağıdaki komutu çalıştırarak sistemi güncelleyebilirsiniz.
 
-```sudo apt-get update && apt-get upgrade && apt-get disk-upgrade && apt-get -f install && apt-get autoremove```
+```sudo apt-get update && apt-get upgrade && apt-get dist-upgrade && apt-get -f install && apt-get autoremove```
 
 ![53](images/kali-linux/Selection_062.png)
 
