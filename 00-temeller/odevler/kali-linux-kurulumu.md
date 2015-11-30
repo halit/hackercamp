@@ -198,6 +198,8 @@
 
 ## Guest Eklentilerinin Kurulumu
 
+- İlk önce **Devices** menüsü altından **Insert Guest Additions CD image** seçeneği ile cd'yi bağlıyoruz.
+
 - Terminal'i açıyoruz.
 
 ![48](images/kali-linux/Selection_058.png)
