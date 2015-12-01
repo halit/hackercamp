@@ -1,53 +1,35 @@
-# Kali Linux ile Windows Kullanıcı Hesabı Crackleme
+# Windows Åifre
 
-## Niçin Kali?
+## KullanÄ±cÄ± HesabÄ± DÃ¼zenleme
 
-- Kali seçmemizin sebebi usb'den veya CD/DVD rom'dan live olarak yani kurulum yapmadan direkt çalıştırılabilir olmasıdır.
-- Kali seçmemizin bir diğer nedeni ise kullanıcağımız bazı hazır paketlerin içerisinde kurulu olarak gelmesi.
+- Kali Linux'u Windows iÅŸletim sisteminin kurulu olduÄŸu makinede USB disk veya CDROM kullanarak boot ediyoruz.
+- Boot iÅŸlemi sonunda harddisk yolu belirlenmelidir. Bunun iÃ§in **lsblk** komutu kullanÄ±labilir.
+- Disk adÄ± ve yolu bulunduktan sonra **mount** komutu ile baÄŸlanacaktÄ±r. Ä°lgili baÄŸlama iÅŸlemi Kali'nin Ã¼st kÄ±sÄ±mlarÄ±nda yer alan panelden de gerÃ§ekleÅŸtirilebilir. Ã–rnekte bu ÅŸekilde yapÄ±lmÄ±ÅŸtÄ±r. Haliyle disk **/media/root/** yolu altÄ±ndaki alt klasÃ¶re baÄŸlanmÄ±ÅŸtÄ±r.
+- Dizin baÅŸarÄ±yla baÄŸlandÄ±ktan sonra **Windows/System32/config** yoluna gidilir.
 
-## Adım Adım Kullanıcı Hesabı Crackleme
-- Kali linux'u boot ettiğinizi ve kali linux masaüstüne eriştiğinizi varsayıyorum.
-- Öncelikle disk yolunu öğrenmeniz gerekiyor disk yolunu öğrenebilmeniz için dosya yöneticisini açıp windowsun kurulu olduğu dizinde bir dosyanın üzerine sağ tıklayın ve özelliklere girin.
-- "/root/493542/" benzeri yer alan ifadeyi alt taraftaki kodda **"DISKYOLU"** kısmına yerleştirerek terminalde bu komutu çalıştırın.
+![1. adÄ±m](images/windows-sifre/1.png)
 
-![1. adım](images/windows-sifre/1.png)
+- Bu klasÃ¶r altÄ±nda Windows'un kullanÄ±cÄ± hesabÄ± bilgilerinin depolandÄ±ÄŸÄ± **.sam** dosyalarÄ± vardÄ±r. AÅŸaÄŸÄ±daki resim bu dosyalarÄ± gÃ¶stermektedir.
 
-```
-cd /media/**DISKYOLU**/Windows/System32/config
-````
+![2. adÄ±m](images/windows-sifre/2.png)
 
+- SAM dosyalarÄ±nÄ±n iÃ§eriÄŸini gÃ¶rmek iÃ§in **chntpw -l SAM** komutu kullanÄ±labilir.
 
+![3. adÄ±m](images/windows-sifre/3.png)
 
-- Geldiğimiz klasörde windows'un kullanıcı hesabı bilgilerinin depolandığı .sam dosyaları vardır. Alt satırda verdiğim kodla bu dosyaları görebilirsiniz.
+- Ekranda gÃ¶zÃ¼ken listede hesaplar ve hesaplarÄ±n bazÄ± Ã¶zellikleri yazmaktadÄ±r. DÃ¼zenlemek istediÄŸiniz hesabÄ± **chntpw** aracÄ±na **-u** parametresi vererek seÃ§ebilirsiniz. Mesela Administrator kullanÄ±cÄ±sÄ± iÃ§in **chntpw -u Administrator SAM** yazmanÄ±z yeterlidir.
 
-![2. adım](images/windows-sifre/2.png)
-```
-ls -l SAM* sam*
-```
+![4. adÄ±m](images/windows-sifre/4.png)
 
-- Bu gördüğünüz sam dosyalarının içini görme vaktimiz geldi.
-![3. adım](images/windows-sifre/3.png)
-```
-chntpw -l SAM
-```
+- Gelen ekran kullanÄ±cÄ± hesabÄ± ile ilgili daha fazla detay iÃ§ermektedir.
+- Bu ekranda 1,2,3,4,5 ve q komutlarÄ± kullanÄ±larak bazÄ± iÅŸlemler gerÃ§ekleÅŸtirilebilir.
 
-- Ekranda görmüş olduğunuz listede hesaplar ve hesapların bazı özellikleri yazmaktadır. Düzenlemek istediğiniz hesabı aşağıdaki koda yerleştirerek çalıştırınız. Ben Camp kullanıcısını seçtim.
+1- KullanÄ±cÄ±nÄ±n ÅŸifresini kaldÄ±r
+2- Kilidi kaldÄ±r ve hesabÄ± aktif et(burada hesabÄ±n aktif durumunu gÃ¶steriyor)
+3- HesabÄ± yÃ¼kselt yani hesaba admin yetkilerini ver
+4- Bir gruba kullanÄ±cÄ± hesabÄ± ekle
+5- Bir gruptan kullanÄ±cÄ± sil
+q- Ã‡Ä±kÄ±ÅŸ
 
-![4. adım](images/windows-sifre/4.png)
-```
-chntpw -u **Administrator** SAM
-```
-
-- Gelen ekranda bize seçtiğimiz kullanıcı hesabıyla alakalı daha ayrıntılı bilgiler veriliyor.
-- Bu ekranda 1,2,3,4,5 ve q komutlarını kullanarak bazı işlemleri gerçekleştirebiliyoruz.
-
-1- Kullanıcının şifresini kaldır
-2- Kilidi kaldır ve hesabı aktif et(burada hesabın aktif durumunu gösteriyor)
-3- Hesabı yükselt yani hesaba admin yetkilerini ver
-4- Bir gruba kullanıcı hesabı ekle
-5- Bir gruptan kullanıcı sil
-q- Çıkış
-
-- Burdan dilediğiniz işlemleri uyguladıktan sonra q seçimini yaparak çıkabilirsiniz. "q" seçimini yaptıktan sonra değişiklikleri onaylıyorsanız "y" seçip kaydediniz.
-- Ardından bilgisayarınızı yeniden başlatıp uyguladığınız değişikliklerin sonuçlarını alabilirsiniz.
-
+- Burdan dilediÄŸiniz iÅŸlemleri uyguladÄ±ktan sonra q seÃ§imini yaparak Ã§Ä±kabilirsiniz. "q" seÃ§imini yaptÄ±ktan sonra deÄŸiÅŸiklikleri onaylÄ±yorsanÄ±z "y" seÃ§ip kaydediniz.
+- ArdÄ±ndan bilgisayarÄ±nÄ±zÄ± yeniden baÅŸlatÄ±p uyguladÄ±ÄŸÄ±nÄ±z deÄŸiÅŸikliklerin sonuÃ§larÄ±nÄ± alabilirsiniz.
