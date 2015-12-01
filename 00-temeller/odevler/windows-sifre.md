@@ -24,12 +24,12 @@
 - Gelen ekran kullanıcı hesabı ile ilgili daha fazla detay içermektedir.
 - Bu ekranda 1,2,3,4,5 ve q komutları kullanılarak bazı işlemler gerçekleştirilebilir.
 
-1- Kullanıcının şifresini kaldır
-2- Kilidi kaldır ve hesabı aktif et(burada hesabın aktif durumunu gösteriyor)
-3- Hesabı yükselt yani hesaba admin yetkilerini ver
-4- Bir gruba kullanıcı hesabı ekle
-5- Bir gruptan kullanıcı sil
-q- Çıkış
+- **1:** Kullanıcının şifresini kaldır
+- **2:** Kilidi kaldır ve hesabı aktif et(burada hesabın aktif durumunu gösteriyor)
+- **3:** Hesabı yükselt yani hesaba admin yetkilerini ver
+- **4:** Bir gruba kullanıcı hesabı ekle
+- **5:** Bir gruptan kullanıcı sil
+- **q:** Çıkış
 
 - Burdan dilediğiniz işlemleri uyguladıktan sonra q seçimini yaparak çıkabilirsiniz. "q" seçimini yaptıktan sonra değişiklikleri onaylıyorsanız "y" seçip kaydediniz.
 - Ardından bilgisayarınızı yeniden başlatıp uyguladığınız değişikliklerin sonuçlarını alabilirsiniz.
