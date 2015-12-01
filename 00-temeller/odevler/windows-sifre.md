@@ -17,7 +17,7 @@
 
 ![3. adım](images/windows-sifre/3.png)
 
-- Ekranda gözüken listede hesaplar ve hesapların bazı özellikleri yazmaktadır. Düzenlemek istediğiniz hesabı **chntpw** aracına **-u** parametresi vererek seçebilirsiniz. Mesela Administrator kullanıcısı için **chntpw -u Administrator SAM** yazmanız yeterlidir.
+- Ekranda gözüken listede hesaplar ve hesapların bazı özellikleri yazmaktadır. Düzenlemek istediğiniz hesabı **chntpw** aracına **-u** parametresi vererek seçebilirsiniz. Mesela **Camp** kullanıcısı için **chntpw -u Camp SAM** yazmanız yeterlidir.
 
 ![4. adım](images/windows-sifre/4.png)
 
