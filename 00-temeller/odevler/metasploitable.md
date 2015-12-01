@@ -14,7 +14,7 @@
 
 ![2](images/Metasploitable/2.jpg)
 
-- **Mevcut sanal sabit disk dosyasi kullan** (Use an existing virtual hard disk file) seceneğini seçiyoruz.
+- **Mevcut sanal sabit disk dosyasi kullan** (Use an existing virtual hard disk file) seçeneğini seçiyoruz.
 
 ![3](images/Metasploitable/3.jpg)
 
@@ -26,7 +26,7 @@
 
 ![5](images/Metasploitable/5.jpg)
 
-- Sanal makinemizi çalıştırdıktan sonra asağıdaki gibi bir ekran karşımıza geliyor.
+- Sanal makinemizi çalıştırdıktan sonra aşağıdaki gibi bir ekran karşımıza geliyor.
 
 ![6](images/Metasploitable/7.jpg)
 
@@ -34,13 +34,13 @@
 
 - Nat network kurulumu [burada][1] anlatılmıştır.
 
-- Daha önce Nat network ağını kurduysaniz **pentestlab-network** sanal makinanizin ayarlar->Ağ bölümünden Nat ağını seçebilirsiniz.
+- Daha önce Nat network ağını kurduysanız **pentestlab-network** sanal makinanızın ayarlar->Ağ bölümünden Nat ağını seçebilirsiniz.
 
 ![7](images/Metasploitable/8.jpg)
 
 ## Snapshot Alınması
 
-- Sanal makineniz seçili iken sağ üst köşedeki **Anlik Görüntüler** (Snapshot) seçmesine tıklayıp aşağıdaki gibi anlık görüntüsünü alabilirsiniz.
+- Sanal makineniz seçili iken sağ üst köşedeki **Anlık Görüntüler** (Snapshot) seçmesine tıklayıp aşağıdaki gibi anlık görüntüsünü alabilirsiniz.
 
 ![8](images/Metasploitable/9.jpg)
 
