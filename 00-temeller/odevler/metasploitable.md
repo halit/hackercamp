@@ -8,7 +8,7 @@
 
 - Sanal makinenin ismini belirleyip **Türü** ve **Sürüm** kısımlarını aşağıdaki gibi seçiyoruz.
 
-![1](images/Metasploitable/1.jph)
+![1](images/Metasploitable/1.jpg)
 
 - **Bellek Boyutu** 512 MB olarak belirliyoruz ve **İleri** diyoruz.
 
