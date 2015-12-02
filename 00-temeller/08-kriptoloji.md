@@ -77,6 +77,10 @@ gpg -o original.txt -d d.txt.gpg
 - Örneğin ECB modundaki bir şifreleme de, anahtara sahip olunamasa da istenilen sonuca erişilebilir.
 - 2DES'de olduğu gibi kullanım kaynaklı da saldırılar yapılabilmektedir. [Meet in the Middle][4] saldırısı buna örnektir.
 
+```
+truecrack -t deneme_dosya --wordlist /usr/share/wordlists/rockyou.txt
+```
+
 ## Asimetrik Şifreleme
 
 - Simetrik şifrelemede güvenlik algoritmanın gizliliğine değil, anahtarın korunmasına bağlıdır. Haliyle tek anahtar olmaktadır.
