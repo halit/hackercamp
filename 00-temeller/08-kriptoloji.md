@@ -42,7 +42,7 @@ md5sum dosya.jpg
 - Yapılan büyük yanlışlardan birisi de şifrelerin hash halini almanın, bir şifreleme yöntemi olduğunu düşünmektir.
 - Tek yönlü bir fonksiyon olduğu için geriye dönüş teorik olarak imkansızdır. (en azından imkansız olması beklenmektedir)
 - Bu yüzden hash algoritmalarına kriptografik saldırılar yerine wordlist veya kaba kuvvet saldırıları yapılmaktadır.
-- John The Ripper aracının hash formatlarına [buradan][0] bakabilirsiniz.
+- **John The Ripper** aracının hash formatlarına [buradan][0] bakabilirsiniz.
 - Hash kırma saldırılarının vazgeçilmesi olan [hashcat][1] aracı GPU gücünden de faydalanabilmektedir.
 - Saldırılar arasında en hızlı sonuç getiren şüphesiz rainbow table denilen yöntemdir. Bu sayede yerden kaybedilmesine rağmen hızdan kazanılmaktadır.
 - Popüler algoritmalar için tablolara [buradan][2] ulaşabilirsiniz.
@@ -104,6 +104,18 @@ gpg -o original.txt -d d.txt.gpg
 - Uygulanmasından kaynaklı olarak saldırılara maruz kalmaktadır.
 - RC4 algoritmasına karşı gerçekleştirilebilen çok kolay ve güçlü yöntemler bulunmaktadır.
 
+## Steganografi
+
+- Şifrelemede amaç verinin başka bir forma dönüştürülmesiyken, steganografi de amaç verinin başka bir veri içerisinde saklanmasıdır.
+- Herhangi bir veri, herhangi başka bir veri içerisine saklanabilmektedir.
+- En çok kullanılan tekniklerin başında LSB bulunmaktadır.
+
+```
+echo "gizli veri" > e.txt
+steghide embed -cf a.jpg -ef e.txt
+steghide extract -sf a.jpg
+```
+
 ## Örnekler
 
 - Truecrypt ile AES bloğu oluşturma ve truecrack ile kırılması.
@@ -127,6 +139,8 @@ gpg -o original.txt -d d.txt.gpg
 - **gpa** benzeri bir araç ile public-private anahtar yönetimi yapınız.
 - **AES** ve **RSA** için güvenli en düşük bit miktarlarını araştırınız.
 - Asal çarpanlarına ayırma algoritmalarının iyileşmesinin **RSA** algoritmasına zararını araştırınız.
+- **outguess** aracının kullanımını araştırınız.
+- **steghide** kullanılması sırasında kullanılan şifrenin kırılması için bir araç geliştiriniz.
 
 [0]: http://pentestmonkey.net/cheat-sheet/john-the-ripper-hash-formats
 [1]: https://hashcat.net/oclhashcat/
