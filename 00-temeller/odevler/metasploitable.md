@@ -33,7 +33,6 @@
 ## Nat Network Kurulumu
 
 - Nat network kurulumu [burada][1] anlatılmıştır.
-
 - Daha önce Nat network ağını kurduysanız **pentestlab-network** sanal makinanızın **ayarlar->ağ** bölümünden Nat ağını seçebilirsiniz.
 
 ![7](images/Metasploitable/8.jpg)
