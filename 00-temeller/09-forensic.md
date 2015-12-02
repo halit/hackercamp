@@ -78,7 +78,9 @@ int main(){
 - Büyük pcap dosyalarını Wireshark ile nasıl açabileceğinizi araştırınız.
 - Windows işletim sistemi içerisinde bellek dumpı alınız ve bu dumpı analiz ediniz.
 - MFT'nin ne olduğunu araştırınız.
+- Honeynet'in hazırladığı [soruları][3] çözmeye çalışınız.
 
 [0]: http://forensicscontest.com/contest01/evidence01.pcap
 [1]: https://code.google.com/p/volatility/wiki/FAQ#Are_there_any_public_memory_samples_available_that_I_can_use_for
 [2]: http://forensicscontest.com/puzzles
+[3]: https://honeynet.org/challenges
