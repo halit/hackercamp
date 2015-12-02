@@ -49,7 +49,7 @@ volatility --profile=Win7SP0x86 -f win7.dmp pstree
 
 ## Örnekler
 
-- [evidence01.pcap][0] dosyasından, Ann'in konuştuğu kişinin adı ve gönderdiği dosyanın adını bulma.
+- [evidence01.pcap][0] dosyasından, Ann'in konuştuğu kişinin adını ve gönderdiği dosyanın adını bulma.
 
 ## Örnek Kod
 
@@ -77,6 +77,7 @@ int main(){
 - Metadata silen araçları araştırınız.
 - Büyük pcap dosyalarını Wireshark ile nasıl açabileceğinizi araştırınız.
 - Windows işletim sistemi içerisinde bellek dumpı alınız ve bu dumpı analiz ediniz.
+- MFT'nin ne olduğunu araştırınız.
 
 [0]: http://forensicscontest.com/contest01/evidence01.pcap
 [1]: https://code.google.com/p/volatility/wiki/FAQ#Are_there_any_public_memory_samples_available_that_I_can_use_for
