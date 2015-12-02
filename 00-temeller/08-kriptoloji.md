@@ -125,6 +125,7 @@ steghide extract -sf a.jpg
 - Truecrypt ile AES bloğu oluşturma ve truecrack ile kırılması.
 - Enigmail ile public-private anahtar oluşturma ve mail gönderilmesi.
 - Browser üzerinde sertifika incelenmesi.
+- Cryptolocker virüsünün incelenmesi.
 
 ## Ödev
 
