@@ -1,6 +1,6 @@
-# Metasploitable Kurulumu
+# Metasploitable
 
-## Sanal Makinenin Oluşturulması
+## Sanal Makine Oluşturulması
 
 - İlk olarak yeni bir sanal makine oluşturmak için **Yeni** butonuna tıklıyoruz.
 
@@ -18,7 +18,7 @@
 
 ![3](images/Metasploitable/3.jpg)
 
-- Sağ alttaki dizin butonuna tıklayarak aşağıdaki gibi **Metasploitable.vmdk** aç diyoruz.
+- Sağ alttaki dizin butonuna tıklayarak daha önceden indirdiğiniz **Metasploitable.vmdk** dosyasını seçiyoruz.
 
 ![4](images/Metasploitable/4.jpg)
 
@@ -34,13 +34,13 @@
 
 - Nat network kurulumu [burada][1] anlatılmıştır.
 
-- Daha önce Nat network ağını kurduysanız **pentestlab-network** sanal makinanızın ayarlar->Ağ bölümünden Nat ağını seçebilirsiniz.
+- Daha önce Nat network ağını kurduysanız **pentestlab-network** sanal makinanızın **ayarlar->ağ** bölümünden Nat ağını seçebilirsiniz.
 
 ![7](images/Metasploitable/8.jpg)
 
 ## Snapshot Alınması
 
-- Sanal makineniz seçili iken sağ üst köşedeki **Anlık Görüntüler** (Snapshot) seçmesine tıklayıp aşağıdaki gibi anlık görüntüsünü alabilirsiniz.
+- Sanal makineniz seçili iken sağ üst köşedeki **Anlık Görüntüler** (Snapshot) seçmesine tıklayarak aşağıdaki gibi anlık görüntü alabilirsiniz.
 
 ![8](images/Metasploitable/9.jpg)
 
