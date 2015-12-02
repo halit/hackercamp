@@ -6,3 +6,4 @@ Konu | Açıklama
 [Kali Linux Kurulumu](kali-linux-kurulumu.md) | Virtualbox ile Kali Linux kurulumu
 [TrueCrypt Kurulumu](truecrypt-kullanimi.md) | Truecrypt kurulumu ve kullanımı
 [Windows Kullanıcı Erişimi](windows-sifre.md) | Kali ile Windows kullanıcı hesapları yönetimi
+[Metasploitable](metasploitable.md) | Metasploitable dağıtımının kurulumu
