@@ -65,17 +65,17 @@ hashcat -m 0 -a 0 c.txt  /usr/share/wordlists/rockyou.txt
 - İlgili modların kullanımı ve sonuçlarına [buradan][3] ulaşabilirsiniz.
 - En ünlüleri AES, DES, Blowfish, Serpent ve Twofish'tir. Ancak AES standart olarak kabul edilmektedir.
 
-## Simetrik Şifre Saldırıları
-
-- Kullanılan mod kaynaklı saldırı yöntemleri değişebilmektedir.
-- Örneğin ECB modundaki bir şifreleme de, anahtara sahip olunamasa da istenilen sonuca erişilebilir.
-- 2DES'de olduğu gibi kullanım kaynaklı da saldırılar yapılabilmektedir. [Meet in the Middle][4] saldırısı buna örnektir.
-
 ```
 echo "deneme metin" > d.txt
 gpg -c --cipher-algo AES256 d.txt
 gpg -o original.txt -d d.txt.gpg
 ```
+
+## Simetrik Şifre Saldırıları
+
+- Kullanılan mod kaynaklı saldırı yöntemleri değişebilmektedir.
+- Örneğin ECB modundaki bir şifreleme de, anahtara sahip olunamasa da istenilen sonuca erişilebilir.
+- 2DES'de olduğu gibi kullanım kaynaklı da saldırılar yapılabilmektedir. [Meet in the Middle][4] saldırısı buna örnektir.
 
 ## Asimetrik Şifreleme
 
