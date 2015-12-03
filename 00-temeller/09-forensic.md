@@ -38,8 +38,9 @@ strings uygulama
 exiftool resim.jpg
 binwalk uygulama_diger
 dd if=uygulama_diger of=ilginc.jpg skip=8 count=20
-volatility -f win7.dmp imageinfo
-volatility --profile=Win7SP0x86 -f win7.dmp pstree
+volatility -f zeus.vmem imageinfo
+volatility -f zeus.vmem pstree
+volatility -f zeus.vmem filescan
 ```
 
 ## Network
