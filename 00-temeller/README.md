@@ -13,4 +13,3 @@ Konu | Açıklama
 [Kriptoloji](08-kriptoloji.md) | Kriptoloji bilimi ve siber güvenlik içerisinde kullanımları
 [Forensic](09-forensic.md) | İkili dosya ve network forensic kavramları
 [Pasif Bilgi Toplama](0A-pasif-bilgi-toplama.md) | Saldırı öncesi pasif bilgi toplama
-[Aktif Bilgi Toplama](0B-aktif-bilgi-toplama.md) | Saldırı öncesi aktif bilgi toplama
