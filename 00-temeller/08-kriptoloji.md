@@ -123,7 +123,6 @@ steghide extract -sf a.jpg
 ## Örnekler
 
 - Truecrypt ile AES bloğu oluşturma ve truecrack ile kırılması.
-- Enigmail ile public-private anahtar oluşturma ve mail gönderilmesi.
 - Browser üzerinde sertifika incelenmesi.
 - Cryptolocker virüsünün incelenmesi.
 
@@ -146,6 +145,7 @@ steghide extract -sf a.jpg
 - Asal çarpanlarına ayırma algoritmalarının iyileşmesinin **RSA** algoritmasına zararını araştırınız.
 - **outguess** aracının kullanımını araştırınız.
 - **steghide** kullanılması sırasında kullanılan şifrenin kırılması için bir araç geliştiriniz.
+- **Enigmail** eklentisinin **Thunderbird** uygulamasına kurulması ve public-private key oluşturulması. Aynı zamanda karşılıklı şifreli iletişim sağlanması.
 
 [0]: http://pentestmonkey.net/cheat-sheet/john-the-ripper-hash-formats
 [1]: https://hashcat.net/oclhashcat/
