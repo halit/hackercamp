@@ -76,10 +76,11 @@ int main(){
 - **volatility** aracını kullanarak diğer bellek [örneklerini][1] analiz ediniz.
 - **foremost** kullanarak silinmiş dosyaların nasıl geri döndürüldüğünü inceleyiniz.
 - Metadata silen araçları araştırınız.
-- Büyük pcap dosyalarını Wireshark ile nasıl açabileceğinizi araştırınız.
+- Büyük pcap dosyalarının **Wireshark** ile nasıl açılacağını araştırınız.
 - Windows işletim sistemi içerisinde bellek dumpı alınız ve bu dumpı analiz ediniz.
 - MFT'nin ne olduğunu araştırınız.
 - Honeynet'in hazırladığı [soruları][3] çözmeye çalışınız.
+- Kendi network trafiğinizi **tcpdump** aracı ile kaydediniz. **Wireshar** ile analiz ediniz.
 
 [0]: http://forensicscontest.com/contest01/evidence01.pcap
 [1]: https://code.google.com/p/volatility/wiki/FAQ#Are_there_any_public_memory_samples_available_that_I_can_use_for
