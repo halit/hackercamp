@@ -259,7 +259,7 @@ netstat -antl
 - Firefox ile izlenen bir youtube videosunu **/proc/** dizini altından çıkarınız.
 - **fdisk** ve **cfdisk** araçlarının kullanımlarını öğreniniz. USB diskler üzerinde deneme yapınız.
 - **gparted** aracını kurup, inceleyiniz.
-- **zsh** kabuğunu kurunuz ve **oh-my-zsh* eklentisi ile birlikte kullanınız.
+- **zsh** kabuğunu kurunuz ve **oh-my-zsh** eklentisi ile birlikte kullanınız.
 - **top** ve **htop** araçlarını kullanınız.
 - Yazılan bir scripti başlangıçta çalışacak şekilde ayarlayınız.
 - Yazılan bir scripti 10 dakikada bir çalışacak şekilde ayarlayınız.
