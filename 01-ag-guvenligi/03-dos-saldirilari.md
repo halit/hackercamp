@@ -12,3 +12,5 @@ slowhttptest -u http://halitalptekin.com
 - Slow dos saldırısının nasıl çalıştığını araştırınız.
 - Syn flood saldırısına nasıl önlem alınabileceğini araştırınız.
 - Syn cookie nedir ve ne için kullanılır?
+- DDoS nedir ve nasıl yapılır araştırınız.
+- DNS veya NTP üzerinden yapılan DDoS saldırılarını araştırınız.
