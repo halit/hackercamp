@@ -8,6 +8,7 @@
 - pipl.com
 - yougetsignal.com
 - bing.com
+- virustotal.com
 
 ## Araçlar
 
